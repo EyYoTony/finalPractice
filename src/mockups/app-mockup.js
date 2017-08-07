@@ -2,7 +2,7 @@ import React from 'react'
 
 const AppMockup = () => {
   return (
-    <div className="flex flex-column justify-between vh-100 w-100 avenir bg-washed-green">
+    <div className="flex flex-column justify-between vh-100 w-100 avenir bg-white">
       <header className="flex flex-row justify-between items-center bg-dark-green h3 b f3 fw6 pa3 mb2">
         <div>{'<'}</div>
         <div>Street Art Search</div>
